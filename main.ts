@@ -10,6 +10,3 @@ input.onButtonPressed(Button.A, function () {
 let Counting_Down_ = 0
 Counting_Down_ = 9
 basic.showNumber(Counting_Down_)
-basic.forever(function () {
-	
-})
